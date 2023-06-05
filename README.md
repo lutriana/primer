@@ -1,2 +1,2 @@
 # primer
-mi primer repositorio
+mi primer README
